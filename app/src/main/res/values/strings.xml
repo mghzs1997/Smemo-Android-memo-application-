@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Smemo</string>
+    <string name="edit">编辑</string>
+    <string name="memo">便签</string>
+    <string name="add">+</string>
+    <string name="memo_new">新建便签</string>
+    <string name="memo_detail">便签详情</string>
+    <string name="memo_edit">修改便签</string>
+    <string name="back">&lt;</string>
+    <string name="edit_hint">写点什么...</string>
+    <string name="finish">完成</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="choose">选择项目</string>
+    <string name="selected1">已选</string>
+    <string name="selected2">个项目</string>
+    <string name="all">全选</string>
+    <string name="fan">全不选</string>
+</resources>
